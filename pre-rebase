@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo rebasing has disabled $GIT_AUTHOR_NAME
+
+exit 1
